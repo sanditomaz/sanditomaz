@@ -9,7 +9,7 @@
 
 - 👩‍💻 I'm Dedicated to producing high-quality, well-designed applications that meet the needs of users and clients
 
-- ⚡ Apart from studying, I love cooking, doing yoga, playing guitar and roller skating
+- ⚡ Apart from studying, I love reading, cooking, doing yoga, playing guitar and roller skating
 ##
 <div align="flex-start">
   <a href="https://github.com/sanditomaz">
@@ -29,6 +29,7 @@
 
   <img align="center" alt="San-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  <img align="center" alt="San-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="San-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="center" alt="San-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img align="center" alt="San-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
           
