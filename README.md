@@ -1,8 +1,8 @@
-### Hi there, I'm Sandi! Welcome to my profile! 👋 
+### Hi there, I'm Sandi! Welcome to my profile! 👋 <iframe src="https://giphy.com/embed/KGMzZvWa5su2O5LCVR" width="40" height="41" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Clarin--transparent-KGMzZvWa5su2O5LCVR">via GIPHY</a></p>
 ##
 
 - 🌱 I’m a Full Stack Web Developer 
-- 🤓 I've been developing projects using a variety of front-end and back-end technologies, such as JavaScript, Node.js, React, Express, PostgreSQL, and more... Feel free to check them out
+- 🤓 I've been developing projects using a variety of front-end and back-end technologies, such as JavaScript, Node.js, React, Express, PostgreSQL, and more.. Feel free to check them out!
 - 👩‍💻 I'm Dedicated to producing high-quality, well-designed applications that meet the needs of users and clients
 - 📚 I love learning about technology and science
 - ⚡ Apart from studying, I love cooking, doing yoga, playing guitar and roller skating
