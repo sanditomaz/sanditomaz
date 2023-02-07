@@ -1,7 +1,4 @@
-### Hi there, I'm Sandi! Welcome to my profile! 👋 <img src="https://github.com/sanditomaz/sanditomaz/blob/574b197ebb07de60d730b79e5f1012f2c4e1f2e6/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
+### Hi there, I'm Sandi! Welcome to my profile! 👋 
 ##
 
 - 🌱 I’m a Full Stack Web Developer 
