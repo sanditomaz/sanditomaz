@@ -1,4 +1,4 @@
-### Hi there, I'm Sandi! Welcome to my profile! 👋 <iframe src="https://giphy.com/embed/KGMzZvWa5su2O5LCVR" width="40" height="41" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Clarin--transparent-KGMzZvWa5su2O5LCVR">via GIPHY</a></p>
+### Hi there, I'm Sandi! Welcome to my profile! 👋 
 ##
 
 - 🌱 I’m a Full Stack Web Developer 
