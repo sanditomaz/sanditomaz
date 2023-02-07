@@ -5,7 +5,7 @@
 - 🤓 I've been developing projects using a variety of front-end and back-end technologies, such as JavaScript, Node.js, React, Express, PostgreSQL, and more.
 - 👩‍💻 I'm Dedicated to producing high-quality, well-designed applications that meet the needs of users and clients.
 - 📚 I love learning about technology and science. 
-- 🪷 Apart from studying, I love cooking, doing yoga, playing guitar and roller skating
+- ⚡ Apart from studying, I love cooking, doing yoga, playing guitar and roller skating
 ##
 <div align="flex-start">
   <a href="https://github.com/sanditomaz">
