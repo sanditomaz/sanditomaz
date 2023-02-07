@@ -1,7 +1,4 @@
-### Hi there, I'm Sandi! Welcome to my profile! 👋 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
+### Hi there, I'm Sandi! Welcome to my profile! 👋 
 ##
 
 - 🌱 I’m a Full Stack Web Developer 
