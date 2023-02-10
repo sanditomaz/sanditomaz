@@ -43,4 +43,5 @@
   <div> 
      <a href = "mailto:sandi.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sanditomaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://leetcode.com/sanditomaz/" target="_blank"> <img height="29" width="120"  src="https://user-images.githubusercontent.com/64984681/218173528-ac0670fb-e4b1-46e7-9034-f203a4fd976d.png" target="_blank"></a> 
   </div>
