@@ -1,15 +1,14 @@
 ### Hi there, I'm Sandi. Welcome to my profile! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" align="center" height="30" width="30" />
 ##
 
-- 🌱 I’m a Full Stack Web Developer 
+- 🌱 I’m a Full Stack Developer 
 
-- 📚 I love learning about technology and science
+- 📚 I love learning, reading, cooking, doing yoga, playing guitar and roller skating
 
 - 🤓 I've been developing projects using a variety of front-end and back-end technologies, such as JavaScript, Node.js, React, Express, PostgreSQL, and many more. Feel free to check them out!
 
 - 👩‍💻 I'm Dedicated to producing high-quality, well-designed applications that meet the needs of users and clients
 
-- ⚡ Apart from studying, I love reading, cooking, doing yoga, playing guitar and roller skating
 ##
 <div align="flex-start">
   <a href="https://github.com/sanditomaz">
