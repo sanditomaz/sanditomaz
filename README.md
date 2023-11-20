@@ -3,7 +3,7 @@
 
 - 🌱 I’m a Full Stack Developer 
 
-- 📚 I love learning, reading, cooking, doing yoga, playing guitar and roller skating
+- 📚 I love learning, reading, cooking and roller skating
 
 - 🤓 I've been developing projects using a variety of front-end and back-end technologies, such as JavaScript, Node.js, React, Express, PostgreSQL, and many more. Feel free to check them out!
 
